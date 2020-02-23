@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# K
+# Coil
 #
-DEF K K 0 40 Y N 1 F N
+DEF Coil K 0 40 Y N 1 F N
 F0 "K" -12 25 50 H V L CNN
-F1 "K" 16 25 50 H V C CNN
+F1 "Coil" 16 25 50 H V C CNN
 F2 "" -100 -10 60 H I C CNN
 F3 "" -100 -10 60 H I C CNN
 DRAW

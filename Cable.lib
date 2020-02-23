@@ -1,0 +1,89 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Cable_1
+#
+DEF Cable_1 Line1 0 40 Y Y 1 F N
+F0 "Line1" 39 25 50 H I C CNN
+F1 "Cable_1" 110 25 50 H I C CNN
+F2 "" 0 75 50 H I C CNN
+F3 "" 0 75 50 H I C CNN
+DRAW
+P 2 1 1 0 -50 50 50 0 N
+P 2 1 1 0 0 50 0 0 N
+X ~ ~ 0 0 50 U 72 72 1 1 P
+X ~ ~ 0 50 50 D 72 72 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Cable_2
+#
+DEF Cable_2 Line1 0 40 Y Y 1 F N
+F0 "Line1" 139 -25 50 H I C CNN
+F1 "Cable_2" 210 25 50 H I C CNN
+F2 "" 0 25 50 H I C CNN
+F3 "" 0 25 50 H I C CNN
+DRAW
+P 2 0 1 0 -50 0 50 -50 N
+P 2 0 1 0 -50 50 50 0 N
+P 2 0 1 0 0 0 0 -50 N
+X ~ ~ 0 -50 50 U 72 72 1 1 P
+X ~ ~ 0 50 50 D 72 72 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Cable_3
+#
+DEF Cable_3 Line1 0 40 Y Y 1 F N
+F0 "Line1" -39 25 50 H I C CNN
+F1 "Cable_3" 110 25 50 H I C CNN
+F2 "" 0 75 50 H I C CNN
+F3 "" 0 75 50 H I C CNN
+DRAW
+P 2 0 1 0 -50 50 50 0 N
+P 2 0 1 0 0 50 0 0 N
+P 2 1 1 0 -50 0 50 -50 N
+P 2 1 1 0 -50 100 50 50 N
+X ~ ~ 0 -50 50 U 72 72 1 1 P
+X ~ ~ 0 100 50 D 72 72 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Cable_4
+#
+DEF Cable_4 Line1 0 40 Y Y 1 F N
+F0 "Line1" -39 -25 50 H I C CNN
+F1 "Cable_4" 110 -25 50 H I C CNN
+F2 "" 0 25 50 H I C CNN
+F3 "" 0 25 50 H I C CNN
+DRAW
+P 2 0 1 0 0 50 0 -50 N
+P 2 1 1 0 -50 -50 50 -100 N
+P 2 1 1 0 -50 0 50 -50 N
+P 2 1 1 0 -50 50 50 0 N
+P 2 1 1 0 -50 100 50 50 N
+X ~ ~ 0 -100 50 U 72 72 1 1 P
+X ~ ~ 0 100 50 D 72 72 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Cable_5
+#
+DEF Cable_5 Line1 0 40 Y Y 1 F N
+F0 "Line1" 39 25 50 H I C CNN
+F1 "Cable_5" 110 25 50 H I C CNN
+F2 "" 0 125 50 H I C CNN
+F3 "" 0 125 50 H I C CNN
+DRAW
+P 2 0 1 0 0 100 0 -50 N
+P 2 1 1 0 -50 -50 50 -100 N
+P 2 1 1 0 -50 0 50 -50 N
+P 2 1 1 0 -50 50 50 0 N
+P 2 1 1 0 -50 100 50 50 N
+P 2 1 1 0 -50 150 50 100 N
+X ~ ~ 0 -100 50 U 72 72 1 1 P
+X ~ ~ 0 150 50 D 72 72 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
