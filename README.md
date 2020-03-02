@@ -28,9 +28,9 @@
 электрооборудования.
 
 
-Пример  test.png или test.pdf
+Пример  test.pdf, test.mp4.
 
 
-![test.mp4](https://raw.githubusercontent.com/Aleginel/kicad_sch_electric_lib_ru/master/test.mp4)
+![test.png](https://github.com/Aleginel/kicad_sch_electric_lib_ru/blob/master/test.png)
 
 Использовал для личных целей, может кому и пригодится.
