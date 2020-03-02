@@ -33,4 +33,4 @@
 
 ![test.png](https://github.com/Aleginel/kicad_sch_electric_lib_ru/blob/master/test.png)
 
-Использовал для личных целей, может кому и пригодиться.
+Использовал для личных целей, может кому и пригодится.
