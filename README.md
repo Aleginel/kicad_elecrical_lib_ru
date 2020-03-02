@@ -31,6 +31,6 @@
 Пример  test.png или test.pdf
 
 
-![test.png](https://github.com/Aleginel/kicad_sch_electric_lib_ru/blob/master/test.png)
+![test.mp4](https://github.com/Aleginel/kicad_sch_electric_lib_ru/blob/master/test.mp4)
 
 Использовал для личных целей, может кому и пригодится.
